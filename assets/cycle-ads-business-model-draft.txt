@@ -1,0 +1,55 @@
+## 3. BUSINESS MODEL SUMMARY (CORRECTED — v2)
+
+EXECUTION SCOPE: 1 business banner ad cycle. Single-unit pilot — prove the
+model on one asset before any fleet talk.
+
+### Sequence of operations (in order):
+1. COSTING & ASSET PREP
+   - Estimate full build cost: cycle purchase/fabrication, cargo frame,
+     ad panel mounting hardware, paint/finish, safety fittings.
+   - This is a real, itemized cost sheet — every line VERIFIED against
+     an actual vendor quote before the pilot launches, not estimated.
+2. OPERATOR HIRING
+   - Assign the right person on quality, not just availability — define
+     a short screening criteria (reliability, route familiarity, basic
+     cash handling trust, physical fitness for a 6h pedal shift).
+   - Operator comp: ₹14,000/month salary + ₹100/day food allowance
+     (paid on top, not folded into the salary figure).
+3. CLIENT SIGN-UP
+   - Client is signed and creative approved BEFORE the cycle goes live
+     on-route — asset prep and hiring happen in parallel with sales,
+     but the route doesn't start until a client is contracted.
+4. BOOKING SLOT STRUCTURE (replaces the old flat 40-day cycle)
+   - 7-day slot
+   - 15-day slot
+   - 30-day slot
+   Each slot is a distinct priced product — shorter slots test client
+   appetite and cash flow faster; 30-day slots anchor recurring revenue.
+   Pricing per slot length: ASSUMPTION until a rate card is set — flag
+   and confirm before quoting a client.
+
+### Updated ownership of costs:
+- One-time: cycle build/asset prep (itemized, vendor-quoted).
+- Recurring monthly: operator salary ₹14,000 + food ₹100/day (~₹3,000/mo
+  at 30 days) = ~₹17,000/month fixed operator cost, independent of how
+  many slots are sold that month.
+- Variable: print cost per creative change (~₹300–500/change, still
+  ASSUMPTION pending vendor confirmation), per earlier printing section.
+
+### What this changes downstream in the document:
+- Section 02 (Asset) → single-cycle spec list, add a costing sub-table
+  (build cost line items) before the SVG diagram.
+- Section 03/04 (Scene/Timeline) → drop the "2 cycles" framing in the
+  desk-badge and legend; operator track stays single-track.
+- Section 05 (Cash & Till) → unchanged mechanics, but note it's now
+  one cash box, one operator, one route.
+- Section 07 (Owner Time Budget) → re-derive the 76-min/day figure —
+  with only 1 cycle and 1 slot at a time, hands-on time may drop further;
+  recalculate rather than reuse the old number.
+- Section 08 (Manifestation) → Phase 01 "Validate" target becomes:
+  1 costed asset built, 1 operator hired on defined criteria, 1 client
+  signed, 1 slot (start with 7-day) completed end-to-end. Phase 02/03
+  scale from 1 cycle upward, not from 2.
+- Section 10 (Sources) → add new ASSUMPTION rows for: itemized build
+  cost (until vendor quotes land), operator screening criteria, and
+  per-slot pricing (7/15/30-day rate card).
