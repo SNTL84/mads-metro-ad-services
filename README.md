@@ -132,6 +132,21 @@
 
 ---
 
+## 🔗 Integrated Platforms & Logos
+
+MADS creatives and campaigns integrate with the full modern marketing stack. All major platforms are reflected across our brand assets and service delivery:
+
+| Category | Platforms |
+| --- | --- |
+| **Search & AI** | Google · GitHub · ChatGPT (OpenAI) · Grok (xAI) · Gemini · Claude |
+| **Messaging & Social** | WhatsApp · LinkedIn · Facebook · Instagram · YouTube · TikTok |
+| **Commerce & Delivery** | Zomato · Swiggy |
+| **Core Identity** | MADS · SNTL 84 |
+
+These logos appear consistently on our tricycle boards, digital creatives, landing page, and client-facing materials so your brand sits alongside the platforms people already trust.
+
+---
+
 ## 🚲 MADS DIRECT — Mobile Billboard on Tricycle
 
 **Fixed rate: ₹1,200 / DAY + GST** · **Minimum campaign: 7 Days**
@@ -230,46 +245,117 @@ Full master sheet, project timeline pricing, single-project costing template and
 ## ❓ Frequently Asked Questions (FAQ)
 
 <details>
-<summary><strong>What is the minimum campaign duration for Mobile Billboard Tricycle Ads?</strong></summary>
+<summary><strong>1. What is the minimum campaign duration for Mobile Billboard Tricycle Ads?</strong></summary>
 <br>
-Minimum is <strong>7 days</strong>. Rates: 7 Days ₹8,400 · 10 Days ₹12,000 · 15 Days ₹18,000 · 30 Days ₹36,000 (all + GST).
+Minimum campaign length is <strong>7 days</strong>. Published fixed rates (all + GST):<br>
+• 7 Days → ₹8,400<br>
+• 10 Days → ₹12,000<br>
+• 15 Days → ₹18,000<br>
+• 30 Days → ₹36,000<br>
+Base rate is ₹1,200 per day + GST. Longer campaigns give better value and higher brand recall.
 </details>
 
 <details>
-<summary><strong>Which areas / routes does MADS cover in Surat?</strong></summary>
+<summary><strong>2. Which areas and routes does MADS cover in Surat?</strong></summary>
 <br>
-Core routes: <strong>Adajan · Palangpur · Rander · Pal · Jangirabad · Olpad</strong> and selected high-traffic corridors around Tapi River and commercial zones.
+Core high-traffic routes: <strong>Adajan · Palangpur · Rander · Pal · Jangirabad · Olpad</strong>.<br>
+We also cover selected commercial corridors, Tapi River bridges, markets, malls, office clusters and residential high-footfall zones. Route planning is done with peak-hour intelligence so your brand is seen when people are actually moving.
 </details>
 
 <details>
-<summary><strong>How is pricing calculated for other services?</strong></summary>
+<summary><strong>3. How is pricing calculated for services other than the fixed Tricycle rates?</strong></summary>
 <br>
-We use a transparent Cost & Margin system: Vendor Cost + Overhead + Min Margin (30–40%) + Extra Markup (based on timeline) + GST. See <code>COST_MARGIN_SYSTEM.md</code>.
+We use a transparent Cost & Margin engine:<br>
+<strong>Vendor Cost → Your Overhead → Min Margin (30–40%) → Extra Markup (based on timeline urgency) → GST (18%) → Final Client Price</strong>.<br>
+Min Margin is never reduced. Extra Markup is the only flexible negotiation buffer. Full details live in <code>COST_MARGIN_SYSTEM.md</code>.
 </details>
 
 <details>
-<summary><strong>Can I combine offline and digital marketing?</strong></summary>
+<summary><strong>4. Can I combine offline (Tricycle / Leafleting) with digital marketing?</strong></summary>
 <br>
-Yes. Hybrid packages (Tricycle + Meta Ads / SEO / Influencer / Ecommerce Activation) are our strongest conversion offers.
+Yes — hybrid packages are our strongest offer. Typical combinations:<br>
+• Tricycle + Meta Ads / Instagram / Facebook<br>
+• Tricycle + SEO & Content<br>
+• Tricycle + Influencer / Creator collab<br>
+• Tricycle + Ecommerce Activation (Zomato / Swiggy / your own store)<br>
+Street visibility + digital amplification produces the highest recall and conversion.
 </details>
 
 <details>
-<summary><strong>How do I get a quote or start a campaign?</strong></summary>
+<summary><strong>5. How do I get a quote or start a campaign?</strong></summary>
 <br>
-Simply WhatsApp <a href="https://wa.me/919727413309">+91 97274 13309</a> or open the chat with a pre-filled message from any button above. 50% advance to start.
+Simply WhatsApp <a href="https://wa.me/919727413309">+91 97274 13309</a> or click any “Book on WhatsApp” / “Instant quote” button above. Share your area, duration, and goal. We reply with clear options. 50% advance is required to lock the slot and start creative work.
 </details>
 
 <details>
-<summary><strong>Who is SNTL 84?</strong></summary>
+<summary><strong>6. Who is SNTL 84 and what does he handle?</strong></summary>
 <br>
-SNTL 84 is the Agentic AI Workflow Professional behind MADS — handling performance marketing, fulfillment automation, AI workflows, full-stack builds and supply-chain intelligence.
+SNTL 84 is the Agentic AI Workflow Professional and founder behind MADS. He handles Performance Marketing, Fulfillment Automation, Bench Resource Availability, Full-Stack Builds, AI Workflows and Supply Chain Business Intelligence — so both the street campaign and the digital systems run smoothly.
+</details>
+
+<details>
+<summary><strong>7. Do you provide proof of the campaign?</strong></summary>
+<br>
+Yes. Every campaign includes photo proof, location notes and a short report. This is part of our standard operating process so you can see exactly where and when your brand was visible.
+</details>
+
+<details>
+<summary><strong>8. What is the payment term?</strong></summary>
+<br>
+50% advance to start work / lock the route. Balance on delivery or as per agreed milestones. Payment via UPI or bank transfer. GST invoice is provided.
+</details>
+
+<details>
+<summary><strong>9. Can you also handle leafleting, visiting cards, QR campaigns and events?</strong></summary>
+<br>
+Yes. All are available as add-ons or standalone services under MADS DIRECT. Leafleting & Visiting Cards are priced at ₹1,000/day (500–700 points). Exhibition / Event management is ₹1,000 per day per person. QR Code campaigns are also available.
+</details>
+
+<details>
+<summary><strong>10. Do you set up or manage Zomato, Swiggy, YouTube or Meta business accounts?</strong></summary>
+<br>
+Yes. We offer YouTube / Swiggy / Zomato business setup and Meta Ads configuration + live management as part of MADS ONLINE / Mix packages. Call or WhatsApp for scoped quotes.
+</details>
+
+<details>
+<summary><strong>11. Is the Tricycle board only on the back (horizontal)?</strong></summary>
+<br>
+Yes — the current standard is a large horizontal advertising board mounted on the rear of the tricycle for maximum readability from traffic behind and at junctions.
+</details>
+
+<details>
+<summary><strong>12. How far in advance should I book?</strong></summary>
+<br>
+For normal timelines (8–15 days) we can usually accommodate quickly. For urgent 1–3 day starts there is higher Extra Markup because of rush vendor and coordination costs. Booking 7–10 days ahead gives the best rates and creative flexibility.
+</details>
+
+<details>
+<summary><strong>13. Can the creative / design on the board be changed mid-campaign?</strong></summary>
+<br>
+Yes, subject to printing cost and schedule. Print changes are typically ₹300–500 per creative update (confirmed with vendor at the time). Plan major creative changes at the start of a new slot for best cost efficiency.
+</details>
+
+<details>
+<summary><strong>14. Do you work only in Surat or also beyond?</strong></summary>
+<br>
+Primary focus is Surat & surrounding areas (Olpad, etc.). “Surat & Beyond” means we can discuss nearby towns or special projects — contact us with the location and we will confirm feasibility.
+</details>
+
+<details>
+<summary><strong>15. Where can I see the full cost sheet, growth strategy and tools?</strong></summary>
+<br>
+Everything is open in this repository:<br>
+• <code>COST_MARGIN_SYSTEM.md</code> — full pricing engine<br>
+• <code>BUSINESS_GROWTH_STRATEGY.md</code> — growth playbook<br>
+• <code>index.html</code> — live landing page<br>
+• Route survey tool, checklist, competitor report and more in the <code>assets/</code> folder.
 </details>
 
 ---
 
 ## 🔍 Topics & Keywords (for discovery)
 
-`mobile-billboard-advertising` `cycle-ads-surat` `tricycle-advertising` `offline-advertising-surat` `performance-marketing` `seo-indexing` `ecommerce-activation` `leafleting` `local-business-marketing` `surat-advertising` `adajan` `rander` `pal` `olpad` `mads` `sntl84` `agentic-ai` `route-intelligence`
+`mobile-billboard-advertising` `cycle-ads-surat` `tricycle-advertising` `offline-advertising-surat` `performance-marketing` `seo-indexing` `ecommerce-activation` `leafleting` `local-business-marketing` `surat-advertising` `adajan` `rander` `pal` `olpad` `palangpur` `jangirabad` `mads` `sntl84` `agentic-ai` `route-intelligence` `zomato` `swiggy` `meta-ads`
 
 ---
 
