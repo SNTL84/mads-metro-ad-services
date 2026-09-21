@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/ChatGPT%20Image%20Sep%2020%2C%202026%2C%2012_50_45%20AM.png" alt="MADS — Metro Ad Services" width="100%" />
+<img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/ChatGPT%20Image%20Sep%2020%2C%202026%2C%2012_50_45%20AM.png" alt="MADS — Metro Ad Services | Mobile Billboard Advertising Surat" width="100%" />
 
 # MADS — Metro Ad Services
 
@@ -14,10 +14,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-SNTL84-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SNTL84)
 [![Instagram](https://img.shields.io/badge/Instagram-desibiztrade-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/desibiztrade)
 [![Stars](https://img.shields.io/github/stars/SNTL84/mads-metro-ad-services?style=for-the-badge&logo=github)](https://github.com/SNTL84/mads-metro-ad-services/stargazers)
+[![Forks](https://img.shields.io/github/forks/SNTL84/mads-metro-ad-services?style=for-the-badge)](https://github.com/SNTL84/mads-metro-ad-services/network/members)
+[![Issues](https://img.shields.io/github/issues/SNTL84/mads-metro-ad-services?style=for-the-badge)](https://github.com/SNTL84/mads-metro-ad-services/issues)
 [![License](https://img.shields.io/badge/License-Business-blue?style=for-the-badge)](https://github.com/SNTL84/mads-metro-ad-services)
 [![Status](https://img.shields.io/badge/Status-Active%20%26%20Growing-success?style=for-the-badge)](https://github.com/SNTL84/mads-metro-ad-services)
 
-**Local Business · Local Reach · Real Results | Surat & Beyond**
+**Local Business · Local Reach · Real Results | Surat & Beyond**  
+**Mobile Billboard Tricycle Ads · Cycle Advertising · Performance Marketing · SEO · Ecommerce Activation**
 
 </div>
 
@@ -47,11 +50,15 @@
 ## 👤 SNTL 84 — Agentic AI Workflow Professional
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/8x18e.jpg" alt="SNTL 84" height="220" />
-  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/8x18e.jpg" alt="SNTL 84 — Agentic AI Workflow Professional" height="240" /><br>
+  <em>SNTL 84 — Founder & Agentic AI Workflow Professional</em>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/SENTL84.jpg" alt="SNTL 84 presenter" height="220" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/w5Ivh.jpg" alt="SNTL 84 brand" height="220" />
+  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/w5Ivh.jpg" alt="SNTL 84 brand" height="220" /><br>
+  <em>SNTL 84 brand identity & professional presence</em>
 </p>
 
 **Collab What’s Costing You Time.** One partner for Offline + Online + Events. Clear costs. Real routes. Fast delivery.
@@ -82,10 +89,18 @@
 
 ## 🎨 Brand Creatives — Every Asset Live
 
-### MADS DIRECT — Offline
+### Hero Creative — Mobile Billboard Tricycle in Surat
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/Mads%20Direct.png" alt="MADS DIRECT — Mobile Billboards, Leafleting, Visiting Cards, Newspaper Ads" width="520" />
+  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/ChatGPT%20Image%20Sep%2021%2C%202026%2C%2006_42_33%20PM.png" alt="MADS Mobile Billboard Tricycle Ads Surat — Routes Adajan Palangpur Rander Pal Jangirabad Olpad" width="100%" /><br>
+  <em>MADS Mobile Billboard Tricycle · Live routes across Adajan · Palangpur · Rander · Pal · Jangirabad · Olpad · Tapi River corridor</em>
+</p>
+
+### MADS DIRECT — Offline Solutions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/Mads%20Direct.png" alt="MADS DIRECT — Mobile Billboards, Leafleting, Visiting Cards, Newspaper Ads" width="520" /><br>
+  <em>MADS DIRECT — Mobile Billboards · Leafleting · Visiting Cards · Newspaper Ads</em>
 </p>
 
 ### Cycle Ads + Digital
@@ -93,7 +108,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/ChatGPT%20Image%20Sep%2018%2C%202026%2C%2003_25_10%20PM.png" alt="MADS Social Media Engagement Service" width="420" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/assets/Mads_Cycle.jpg" alt="MADS Cycle Ads — Move. Reach. Inspire." width="420" />
+  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/assets/Mads_Cycle.jpg" alt="MADS Cycle Ads — Move. Reach. Inspire." width="420" /><br>
+  <em>Left: Digital & Social Engagement · Right: MADS Cycle Ads brand identity</em>
 </p>
 
 ### Campaign Posters & Operations
@@ -103,17 +119,15 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/assets/mads-cycle-ads-business-overview.jpg" alt="MADS Cycle Ads business overview" width="280" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/assets/mads-cycle-ads-operations-board.jpg" alt="MADS Cycle Ads operations board" width="280" />
+  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/assets/mads-cycle-ads-operations-board.jpg" alt="MADS Cycle Ads operations board" width="280" /><br>
+  <em>Brand poster · Business overview · Operations board</em>
 </p>
 
 ### Latest City Banners
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/ChatGPT%20Image%20Sep%2021%2C%202026%2C%2006_42_33%20PM.png" alt="MADS Surat banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/ChatGPT%20Image%20Sep%2020%2C%202026%2C%2012_22_48%20AM.png" alt="MADS brand visual" width="100%" />
+  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/ChatGPT%20Image%20Sep%2020%2C%202026%2C%2012_22_48%20AM.png" alt="MADS Complete Advertising Solutions Under One Roof" width="100%" /><br>
+  <em>Complete Advertising Solutions Under One Roof · From Streets to Screens</em>
 </p>
 
 ---
@@ -174,7 +188,7 @@
 | [`assets/mads_cycle_ads_checklist.html`](./assets/mads_cycle_ads_checklist.html) | Full operations checklist |
 | [`assets/mads-competitor-intelligence-report.html`](./assets/mads-competitor-intelligence-report.html) | Competitor intelligence report |
 | [`assets/mads-commercial-model.md`](./assets/mads-commercial-model.md) | Commercial model & fixed rates |
-| [`COST_MARGIN_SYSTEM.md`](./COST_MARGIN_SYSTEM.md) | Full Cost, GST & Margin engine (from Excel) |
+| [`COST_MARGIN_SYSTEM.md`](./COST_MARGIN_SYSTEM.md) | Full Cost, GST & Margin engine |
 | [`BUSINESS_GROWTH_STRATEGY.md`](./BUSINESS_GROWTH_STRATEGY.md) | Priority home-project growth strategy |
 | [`assets/mads-visual-assets.md`](./assets/mads-visual-assets.md) | Visual asset library guide |
 | [`assets/cycle-ads-route-mapping.txt`](./assets/cycle-ads-route-mapping.txt) | Surat route & hotspot mapping |
@@ -210,6 +224,52 @@ All client pricing follows the same transparent engine:
 - Extra Markup is the negotiation buffer
 
 Full master sheet, project timeline pricing, single-project costing template and quotation format → [`COST_MARGIN_SYSTEM.md`](./COST_MARGIN_SYSTEM.md)
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+<details>
+<summary><strong>What is the minimum campaign duration for Mobile Billboard Tricycle Ads?</strong></summary>
+<br>
+Minimum is <strong>7 days</strong>. Rates: 7 Days ₹8,400 · 10 Days ₹12,000 · 15 Days ₹18,000 · 30 Days ₹36,000 (all + GST).
+</details>
+
+<details>
+<summary><strong>Which areas / routes does MADS cover in Surat?</strong></summary>
+<br>
+Core routes: <strong>Adajan · Palangpur · Rander · Pal · Jangirabad · Olpad</strong> and selected high-traffic corridors around Tapi River and commercial zones.
+</details>
+
+<details>
+<summary><strong>How is pricing calculated for other services?</strong></summary>
+<br>
+We use a transparent Cost & Margin system: Vendor Cost + Overhead + Min Margin (30–40%) + Extra Markup (based on timeline) + GST. See <code>COST_MARGIN_SYSTEM.md</code>.
+</details>
+
+<details>
+<summary><strong>Can I combine offline and digital marketing?</strong></summary>
+<br>
+Yes. Hybrid packages (Tricycle + Meta Ads / SEO / Influencer / Ecommerce Activation) are our strongest conversion offers.
+</details>
+
+<details>
+<summary><strong>How do I get a quote or start a campaign?</strong></summary>
+<br>
+Simply WhatsApp <a href="https://wa.me/919727413309">+91 97274 13309</a> or open the chat with a pre-filled message from any button above. 50% advance to start.
+</details>
+
+<details>
+<summary><strong>Who is SNTL 84?</strong></summary>
+<br>
+SNTL 84 is the Agentic AI Workflow Professional behind MADS — handling performance marketing, fulfillment automation, AI workflows, full-stack builds and supply-chain intelligence.
+</details>
+
+---
+
+## 🔍 Topics & Keywords (for discovery)
+
+`mobile-billboard-advertising` `cycle-ads-surat` `tricycle-advertising` `offline-advertising-surat` `performance-marketing` `seo-indexing` `ecommerce-activation` `leafleting` `local-business-marketing` `surat-advertising` `adajan` `rander` `pal` `olpad` `mads` `sntl84` `agentic-ai` `route-intelligence`
 
 ---
 
