@@ -140,10 +140,8 @@
 ### Client Spotlight — Mahadev Restaurant, One Campaign Across Every Corner of Surat
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/residential-street-mahadav-restaurant.jpg" alt="Mahadev Restaurant tricycle ad on an Adajan residential street, Surat, daytime" width="420" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/residential-street-evening-mahadav-restaurant.jpg" alt="Mahadev Restaurant tricycle ad on a Surat residential street at evening golden hour" width="420" /><br>
-  <em>Left: an Adajan residential lane by day · Right: the same style of route at golden hour — steady visibility from morning into evening.</em>
+  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/residential-street-mahadav-restaurant.jpg" alt="Mahadev Restaurant tricycle ad on an Adajan residential street, Surat, daytime" width="520" /><br>
+  <em>Adajan residential lane by day — steady street-level visibility on real local routes.</em>
 </p>
 
 <p align="center">
@@ -158,7 +156,7 @@
   <em>Twin-tricycle convoy outside Rahul Raj Mall — peak evening footfall, maximum brand recall.</em>
 </p>
 
-**One client campaign, five Surat landmarks, day and night — the proof-of-reach every MADS booking is built to deliver.**
+**One client campaign, multiple Surat landmarks, day and night — the proof-of-reach every MADS booking is built to deliver.**
 
 ---
 
@@ -405,3 +403,4 @@ Performance Marketing · Fulfillment Automation · Bench Resource Availability �
 <sub>MADS (Metro Ad Services) · Surat & Beyond · Grow your Brand with Mads</sub>
 
 </div>
+
