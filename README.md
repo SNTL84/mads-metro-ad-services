@@ -130,6 +130,36 @@
   <em>Complete Advertising Solutions Under One Roof · From Streets to Screens</em>
 </p>
 
+### Fleet on the Move — Tapi River Corridor
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/tapi-river-corridor-fleet-mads.png" alt="MADS mobile billboard tricycle fleet riding the Tapi River corridor in Surat, with routes to Adajan, Palangpur, Rander, Pal, Jangirabad and Olpad" width="100%" /><br>
+  <em>The MADS fleet rolling along the Tapi River promenade at dusk — multiple tricycles, one growing brand, covering Surat’s busiest riverside corridor.</em>
+</p>
+
+### Client Spotlight — Mahadev Restaurant, One Campaign Across Every Corner of Surat
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/residential-street-mahadav-restaurant.jpg" alt="Mahadev Restaurant tricycle ad on an Adajan residential street, Surat, daytime" width="420" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/residential-street-evening-mahadav-restaurant.jpg" alt="Mahadev Restaurant tricycle ad on a Surat residential street at evening golden hour" width="420" /><br>
+  <em>Left: an Adajan residential lane by day · Right: the same style of route at golden hour — steady visibility from morning into evening.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/madhuram-circle-day-mahadav-restaurant.jpg" alt="Mahadev Restaurant tricycle ad near Madhuram Circle, Pal, Surat, daytime" width="420" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/madhuram-circle-night-mahadav-restaurant.png" alt="Mahadev Restaurant tricycle ad at Madhuram Circle, Pal, Surat, after dark" width="420" /><br>
+  <em>Left: Pal’s Madhuram Circle by day · Right: the same landmark lit up after dark — high-traffic visibility around the clock.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SNTL84/mads-metro-ad-services/main/rahul-raj-mall-night-mahadav-restaurant.png" alt="Two MADS tricycles carrying the Mahadev Restaurant campaign outside Rahul Raj Mall, Surat, at night" width="100%" /><br>
+  <em>Twin-tricycle convoy outside Rahul Raj Mall — peak evening footfall, maximum brand recall.</em>
+</p>
+
+**One client campaign, five Surat landmarks, day and night — the proof-of-reach every MADS booking is built to deliver.**
+
 ---
 
 ## 🔗 Integrated Platforms & Logos
